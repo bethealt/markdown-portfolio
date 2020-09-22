@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My Personal Octocat](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Foctocat-generator-assets.githubusercontent.com%2Fmy-octocat-1600813179435.png&data=02%7C01%7C%7C16ee98759a8f47aef7b208d85f459c33%7C84df9e7fe9f640afb435aaaaaaaaaaaa%7C1%7C0%7C637364099854857972&sdata=YQMKLJOZ8fS1AKiLlRuzSSLKRPSqK8GuFdaWNosKyh8%3D&reserved=0)
